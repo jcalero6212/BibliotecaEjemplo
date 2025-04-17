@@ -1,0 +1,13 @@
+C:\Clases\BibliotecaEjemplo\bin\Debug\BibliotecaEjemplo.exe.config
+C:\Clases\BibliotecaEjemplo\bin\Debug\BibliotecaEjemplo.exe
+C:\Clases\BibliotecaEjemplo\bin\Debug\BibliotecaEjemplo.pdb
+C:\Clases\BibliotecaEjemplo\bin\Debug\BibliotecaClass.dll
+C:\Clases\BibliotecaEjemplo\bin\Debug\BibliotecaClass.pdb
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.csproj.AssemblyReference.cache
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.Form1.resources
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.Properties.Resources.resources
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.csproj.GenerateResource.cache
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.csproj.CoreCompileInputs.cache
+C:\Clases\BibliotecaEjemplo\obj\Debug\Bibliote.4E849FE9.Up2Date
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.exe
+C:\Clases\BibliotecaEjemplo\obj\Debug\BibliotecaEjemplo.pdb
